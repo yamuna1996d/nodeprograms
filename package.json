@@ -1,0 +1,23 @@
+{
+  "name": "nodeprogram",
+  "version": "1.0.0",
+  "description": "module reinstalling",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamuna1996d/nodeprograms.git"
+  },
+  "author": "yamuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamuna1996d/nodeprograms/issues"
+  },
+  "homepage": "https://github.com/yamuna1996d/nodeprograms#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
